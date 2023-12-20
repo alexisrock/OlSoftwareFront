@@ -1,0 +1,49 @@
+﻿@model OlSoftwareFront.Model.Autentication
+@{
+    ViewData["Title"] = "Autentnicacion";
+
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OlSoftwareFront</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/OlSoftwareFront.styles.css" asp-append-version="true" />
+</head>
+
+<div class="container">
+    <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+        <div class="card-header">Autenticacion</div>
+        <div class="card-body">
+
+            @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { id = "FormProducto" }))
+            {
+
+                <!-- Agrega aquí los campos del formulario -->
+                <div class="form-row">
+
+                    <div class="form-group ">
+                        <label>Username</label>
+                        @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @required = "required" } })
+
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group ">
+                        <label>Password</label>
+                        @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", @required = "required" } })
+
+                    </div>
+                </div>
+              <br/>
+                <br />
+                <br />
+                <div class="form-row">
+                    <button type="submit" class="btn btn-light">Enviar</button>
+                </div>
+            }
+        </br>
+    </div>
+
+</div>
