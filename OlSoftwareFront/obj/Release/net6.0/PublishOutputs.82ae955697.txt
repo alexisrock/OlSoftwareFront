@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\OlSoftwareFront.exe
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\OlSoftwareFront.dll
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\OlSoftwareFront.deps.json
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\OlSoftwareFront.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos\Net\OlSoftwareFront\OlSoftwareFront\bin\Release\net6.0\publish\OlSoftwareFront.pdb

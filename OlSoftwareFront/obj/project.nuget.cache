@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgThoC6XfKPWIQF0dzkSTb6Hq/ujfHLV1FWMZejFgAAngQBOAIfL7CUoNxnFt9+ZmxVK72UsbCdNQrWQf0J4Eg==",
+  "dgSpecHash": "NE7wIZllSk7IBq9CY9iWz3dirtUQzhxLK4ZJ0JUW6cfBvIXodT0u9ehuACTBZLrj4ZvGra/Pmrz4wGxPYa0ZYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

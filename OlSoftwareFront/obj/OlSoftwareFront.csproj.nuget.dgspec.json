@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
         "projectName": "OlSoftwareFront",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\OlSoftwareFront.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\OlSoftwareFront\\OlSoftwareFront\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Proyectos\\Net\\OlSoftwareFront\\OlSoftwareFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

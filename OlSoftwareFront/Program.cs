@@ -6,6 +6,8 @@ builder.Services.AddSession(options =>
 {
 	options.IdleTimeout = TimeSpan.FromMinutes(30); // Establecer el tiempo de expiración de la sesión
 });
+
+builder.WebHost.UseUrls("http://*:1435");
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -14,8 +16,9 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Error");
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
+   
 }
-
+ 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.MapControllerRoute(name: "Login",
